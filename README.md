@@ -15,5 +15,6 @@ Link Ref used:
 
 - [Tool Labeling](https://github.com/tzutalin/labelImg)
 - [Mosaic-Augmentation](https://github.com/themorningstr/Mosaic-Augmentation)
+- [Edit Image](https://github.com/aleju/imgaug)
 
 
